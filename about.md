@@ -7,11 +7,11 @@ permalink: /about/
 Bilgisayar mühendisliği 4.sınıf öğrencisiyim. 
 
 
-### More Information
+### Daha Fazla Bilgi
 
 Linux işletim sistemi ve özgür yazılım alanında araştırmalar yapıyorum.
 
-### Contact me
+### İletişim
 huseyin.simsek1(at)gazi.edu.tr
 
 
