@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Linux Sistem Yönetimi
 ---
 
