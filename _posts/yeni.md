@@ -1,7 +1,5 @@
----
 layout: post
-title: Linux Sistem Yönetimi
----
+title: Linux
 
 
 Updatedb: locate komutu bir dosyayı dizini aramada kullanılır. Bu aramayı mlocate.db altında arama yapar. Bu db güncellenmezse o an aradığımız dosya/dizini bulamaz. Bunun için updatedb komutuyla bu veritabanı güncellenir. (updatedb sudo yetkisiyle çalışır.)
