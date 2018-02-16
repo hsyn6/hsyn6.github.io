@@ -4,7 +4,7 @@ title: Hakkımda
 permalink: /about/
 ---
 
-Gazi Üniversitesi bilgisayar mühendisliği 4.sınıf öğrencisiyim. 
+Bilgisayar mühendisliği 4.sınıf öğrencisiyim. 
 
 
 ### More Information
