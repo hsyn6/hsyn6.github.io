@@ -6,7 +6,6 @@ permalink: /about/
 
 Bilgisayar mühendisliği 4.sınıf öğrencisiyim. 
 
-
 ### Daha Fazla Bilgi
 
 Linux işletim sistemi ve özgür yazılım alanında araştırmalar yapıyorum.
