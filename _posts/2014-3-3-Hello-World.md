@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Huseyin Şimşek
+title: Linux Sistem Yönetimi
 ---
 Updatedb: locate komutu bir dosyayı dizini aramada kullanılır. Bu aramayı mlocate.db altında arama yapar. Bu db güncellenmezse o an aradığımız dosya/dizini bulamaz. Bunun için updatedb komutuyla bu veritabanı güncellenir. (updatedb sudo yetkisiyle çalışır.)
 Find ile locate arasındaki fark da bundan kaynaklanır. Find gerçek zamanlı belirtilen dizin ve altındaki bütün dizinlerde arama yapar. Locate ise kataloglanmış veritabanında arama yaptığı için find komutuna göre daha hızlı cevap verir. 
