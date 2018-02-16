@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
+title: Hakkımda
 permalink: /about/
 ---
 
-Some information about you!
+Gazi Üniversitesi bilgisayar mühendisliği 4.sınıf öğrencisiyim. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Linux işletim sistemi ve özgür yazılım alanında araştırmalar yapıyorum.
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+huseyin.simsek1(at)gazi.edu.tr
