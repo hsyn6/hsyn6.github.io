@@ -18,5 +18,7 @@ Umask: Dosya ve dizinlerin varsayılan izinlerini gösterir. Aslında izin veril
 Eğer bir dosyayının silinmesini istemiyorsak chattr +i dosya şeklinde komut vererek yapabiliriz. Bu komutla root yetkisiyle dahi dosya silinmez.  Bu işlemi geri almak içinde -i parametresiyle bu komut çalıştırılır.
 
 Tar: tar komutu dosya ve dizinleri sıkıştırmada kullanılan dizindir. 
-Örneğin;   tar -cvzf home.tar.gz  /home  komutu ile home dizini altındaki dosyaları home.tar.gz dosyasına sıkıştırılarak arşivlenir.  Tekrardan açmak için ise   tar -xvzf home.tar.gz  şeklinde açılır. 
+Örneğin;   tar -cvzf home.tar.gz  /home  komutu ile home dizini altındaki dosyaları home.tar.gz dosyasına sıkıştırılarak arşivlenir.
+Tekrardan açmak için ise   tar -xvzf home.tar.gz  şeklinde açılır. 
+
 Stat: belirttiğimiz dosya dizin hakkında bilgi verir.
