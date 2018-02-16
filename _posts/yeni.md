@@ -7,7 +7,7 @@ title: Linux Sistem Yönetimi
 Updatedb: locate komutu bir dosyayı dizini aramada kullanılır. Bu aramayı mlocate.db altında arama yapar. Bu db güncellenmezse o an aradığımız dosya/dizini bulamaz. Bunun için updatedb komutuyla bu veritabanı güncellenir. (updatedb sudo yetkisiyle çalışır.)
 Find ile locate arasındaki fark da bundan kaynaklanır. Find gerçek zamanlı belirtilen dizin ve altındaki bütün dizinlerde arama yapar. Locate ise kataloglanmış veritabanında arama yaptığı için find komutuna göre daha hızlı cevap verir. 
 
-  find  /var   -type f -perm 777 -exec chmod 644 {}  \ ; -> bu komut /var dizini altında ki izinleri 777 olan dosyları(-type f , dizin için d) bulur ve bu dosyaların izinlerini 644 olarak değiştirir.
+find  /var   -type f -perm 777 -exec chmod 644 {}  \ ; -> bu komut /var dizini altında ki izinleri 777 olan dosyları(-type f , dizin için d) bulur ve bu dosyaların izinlerini 644 olarak değiştirir.
 Umask: Dosya ve dizinlerin varsayılan izinlerini gösterir. Aslında izin verilmeyen değer gösterilir.
 Örneğin;
   umask 
