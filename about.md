@@ -6,11 +6,10 @@ permalink: /about/
 
 Bilgisayar mühendisliği 4.sınıf öğrencisiyim. 
 
-### Daha Fazla Bilgi
+### İlgi Alanlarım
 
-Linux işletim sistemi ve özgür yazılım alanında araştırmalar yapıyorum.
+Bu listeye en başta linux ve özgür yazılım alanlarını eklemek istiyorum. Ayrıca savunma sanayi, siber güvenlik, makine öğrenmesi alanlarına ilgim var. 
 
 ### İletişim
-huseyin.simsek1(at)gazi.edu.tr
-
+Aşağıdaki bağlantılarla iletişime geçebilirsiniz.
 
